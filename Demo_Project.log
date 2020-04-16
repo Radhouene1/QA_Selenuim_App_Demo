@@ -1,0 +1,114 @@
+04/16/2020 12:57:53 PM - LoginPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/home_page.1587038273856.png
+04/16/2020 12:57:53 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/16/2020 12:57:54 PM - LoginPage - INFO: Element appeared on the web page
+04/16/2020 12:57:54 PM - LoginPage - INFO: Element found with locator: //div[@class='p-gridcol col-auto-device-none']//a[text()='Sign In'] and  locatorType: xpath
+04/16/2020 12:57:55 PM - LoginPage - INFO: Clicked on element with locator: //div[@class='p-gridcol col-auto-device-none']//a[text()='Sign In'] locatorType: xpath
+04/16/2020 12:57:56 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtEmail and  locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Clear field with locator: ctl00_siteContent_txtEmail locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtPassword and  locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Clear field with locator: ctl00_siteContent_txtPassword locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtEmail and  locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Sent data on element with locator: ctl00_siteContent_txtEmail locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtPassword and  locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Sent data on element with locator: ctl00_siteContent_txtPassword locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/login credentials.1587038276340.png
+04/16/2020 12:57:56 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_btnSignIn and  locatorType: id
+04/16/2020 12:57:56 PM - LoginPage - INFO: Clicked on element with locator: ctl00_siteContent_btnSignIn locatorType: id
+04/16/2020 12:57:56 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:57:56 PM - ApplyTests - INFO: test_t1jobsearch started
+04/16/2020 12:57:56 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:57:59 PM - ApplyPage - INFO: Element found with locator: keywordSearchDsk and  locatorType: id
+04/16/2020 12:58:00 PM - ApplyPage - INFO: Sent data on element with locator: keywordSearchDsk locatorType: id
+04/16/2020 12:58:00 PM - ApplyPage - INFO: Element found with locator: //span[contains(text(),'Search')]//parent::button and  locatorType: xpath
+04/16/2020 12:58:01 PM - ApplyPage - INFO: Clicked on element with locator: //span[contains(text(),'Search')]//parent::button locatorType: xpath
+04/16/2020 12:58:01 PM - ApplyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/16/2020 12:58:01 PM - ApplyPage - INFO: Element appeared on the web page
+04/16/2020 12:58:01 PM - Util - INFO: Wait :: '2' seconds for 
+04/16/2020 12:58:03 PM - ApplyPage - INFO: Element found with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')]//parent::a and  locatorType: xpath
+04/16/2020 12:58:03 PM - ApplyPage - INFO: Element present with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')]//parent::a locatorType: xpath
+04/16/2020 12:58:04 PM - ApplyPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/verifyJobSearchSuccessful.1587038283993.png
+04/16/2020 12:58:04 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:58:04 PM - ApplyTests - INFO: test_t2appSubmitted started
+04/16/2020 12:58:04 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:58:04 PM - ApplyPage - INFO: Element found with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')] and  locatorType: xpath
+04/16/2020 12:58:04 PM - ApplyPage - INFO: Clicked on element with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')] locatorType: xpath
+04/16/2020 12:58:04 PM - Util - INFO: Wait :: '2' seconds for 
+04/16/2020 12:58:06 PM - ApplyPage - INFO: Element found with locator: //span[contains(text(),'Application Submitted')]//parent::button[@data-tag='applyNowBtn'] and  locatorType: xpath
+04/16/2020 12:58:06 PM - ApplyPage - INFO: Element present with locator: //span[contains(text(),'Application Submitted')]//parent::button[@data-tag='applyNowBtn'] locatorType: xpath
+04/16/2020 12:58:07 PM - ApplyPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/verifyAppSubmitted.1587038286796.png
+04/16/2020 12:59:29 PM - LoginPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/home_page.1587038369373.png
+04/16/2020 12:59:29 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/16/2020 12:59:30 PM - LoginPage - INFO: Element appeared on the web page
+04/16/2020 12:59:30 PM - LoginPage - INFO: Element found with locator: //div[@class='p-gridcol col-auto-device-none']//a[text()='Sign In'] and  locatorType: xpath
+04/16/2020 12:59:31 PM - LoginPage - INFO: Clicked on element with locator: //div[@class='p-gridcol col-auto-device-none']//a[text()='Sign In'] locatorType: xpath
+04/16/2020 12:59:31 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtEmail and  locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Clear field with locator: ctl00_siteContent_txtEmail locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtPassword and  locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Clear field with locator: ctl00_siteContent_txtPassword locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtEmail and  locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Sent data on element with locator: ctl00_siteContent_txtEmail locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtPassword and  locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Sent data on element with locator: ctl00_siteContent_txtPassword locatorType: id
+04/16/2020 12:59:31 PM - LoginPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/login credentials.1587038371822.png
+04/16/2020 12:59:31 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_btnSignIn and  locatorType: id
+04/16/2020 12:59:32 PM - LoginPage - INFO: Clicked on element with locator: ctl00_siteContent_btnSignIn locatorType: id
+04/16/2020 12:59:32 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:59:32 PM - ApplyTests - INFO: test_t1jobsearch started
+04/16/2020 12:59:32 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:59:34 PM - ApplyPage - INFO: Element found with locator: keywordSearchDsk and  locatorType: id
+04/16/2020 12:59:35 PM - ApplyPage - INFO: Sent data on element with locator: keywordSearchDsk locatorType: id
+04/16/2020 12:59:36 PM - ApplyPage - INFO: Element found with locator: //span[contains(text(),'Search')]//parent::button and  locatorType: xpath
+04/16/2020 12:59:37 PM - ApplyPage - INFO: Clicked on element with locator: //span[contains(text(),'Search')]//parent::button locatorType: xpath
+04/16/2020 12:59:37 PM - ApplyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/16/2020 12:59:37 PM - ApplyPage - INFO: Element appeared on the web page
+04/16/2020 12:59:37 PM - Util - INFO: Wait :: '2' seconds for 
+04/16/2020 12:59:39 PM - ApplyPage - INFO: Element found with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')]//parent::a and  locatorType: xpath
+04/16/2020 12:59:39 PM - ApplyPage - INFO: Element present with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')]//parent::a locatorType: xpath
+04/16/2020 12:59:39 PM - ApplyPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/verifyJobSearchSuccessful.1587038379265.png
+04/16/2020 12:59:39 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:59:39 PM - ApplyTests - INFO: test_t2appSubmitted started
+04/16/2020 12:59:39 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 12:59:39 PM - ApplyPage - INFO: Element found with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')] and  locatorType: xpath
+04/16/2020 12:59:40 PM - ApplyPage - INFO: Clicked on element with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')] locatorType: xpath
+04/16/2020 12:59:40 PM - Util - INFO: Wait :: '2' seconds for 
+04/16/2020 12:59:42 PM - ApplyPage - INFO: Element found with locator: //span[contains(text(),'Application Submitted')]//parent::button[@data-tag='applyNowBtn'] and  locatorType: xpath
+04/16/2020 12:59:42 PM - ApplyPage - INFO: Element present with locator: //span[contains(text(),'Application Submitted')]//parent::button[@data-tag='applyNowBtn'] locatorType: xpath
+04/16/2020 12:59:42 PM - ApplyPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/verifyAppSubmitted.1587038382074.png
+04/16/2020 01:10:42 PM - LoginPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/home_page.1587039042108.png
+04/16/2020 01:10:42 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/16/2020 01:10:43 PM - LoginPage - INFO: Element appeared on the web page
+04/16/2020 01:10:43 PM - LoginPage - INFO: Element found with locator: //div[@class='p-gridcol col-auto-device-none']//a[text()='Sign In'] and  locatorType: xpath
+04/16/2020 01:10:44 PM - LoginPage - INFO: Clicked on element with locator: //div[@class='p-gridcol col-auto-device-none']//a[text()='Sign In'] locatorType: xpath
+04/16/2020 01:10:44 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtEmail and  locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Clear field with locator: ctl00_siteContent_txtEmail locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtPassword and  locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Clear field with locator: ctl00_siteContent_txtPassword locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtEmail and  locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Sent data on element with locator: ctl00_siteContent_txtEmail locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_txtPassword and  locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Sent data on element with locator: ctl00_siteContent_txtPassword locatorType: id
+04/16/2020 01:10:44 PM - LoginPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/login credentials.1587039044783.png
+04/16/2020 01:10:44 PM - LoginPage - INFO: Element found with locator: ctl00_siteContent_btnSignIn and  locatorType: id
+04/16/2020 01:10:45 PM - LoginPage - INFO: Clicked on element with locator: ctl00_siteContent_btnSignIn locatorType: id
+04/16/2020 01:10:45 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 01:10:45 PM - ApplyTests - INFO: test_t1jobsearch started
+04/16/2020 01:10:45 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 01:10:47 PM - ApplyPage - INFO: Element found with locator: keywordSearchDsk and  locatorType: id
+04/16/2020 01:10:48 PM - ApplyPage - INFO: Sent data on element with locator: keywordSearchDsk locatorType: id
+04/16/2020 01:10:49 PM - ApplyPage - INFO: Element found with locator: //span[contains(text(),'Search')]//parent::button and  locatorType: xpath
+04/16/2020 01:10:49 PM - ApplyPage - INFO: Clicked on element with locator: //span[contains(text(),'Search')]//parent::button locatorType: xpath
+04/16/2020 01:10:49 PM - ApplyPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+04/16/2020 01:10:50 PM - ApplyPage - INFO: Element appeared on the web page
+04/16/2020 01:10:50 PM - Util - INFO: Wait :: '2' seconds for 
+04/16/2020 01:10:52 PM - ApplyPage - INFO: Element found with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')]//parent::a and  locatorType: xpath
+04/16/2020 01:10:52 PM - ApplyPage - INFO: Element present with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')]//parent::a locatorType: xpath
+04/16/2020 01:10:52 PM - ApplyPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/verifyJobSearchSuccessful.1587039052254.png
+04/16/2020 01:10:52 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 01:10:52 PM - ApplyTests - INFO: test_t2appSubmitted started
+04/16/2020 01:10:52 PM - ApplyTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+04/16/2020 01:10:52 PM - ApplyPage - INFO: Element found with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')] and  locatorType: xpath
+04/16/2020 01:10:52 PM - ApplyPage - INFO: Clicked on element with locator: //p[contains(text(),'Ingénieur en Assurance Qualité - NeoXam')] locatorType: xpath
+04/16/2020 01:10:52 PM - Util - INFO: Wait :: '2' seconds for 
+04/16/2020 01:10:55 PM - ApplyPage - INFO: Element found with locator: //span[contains(text(),'Application Submitted')]//parent::button[@data-tag='applyNowBtn'] and  locatorType: xpath
+04/16/2020 01:10:55 PM - ApplyPage - INFO: Element present with locator: //span[contains(text(),'Application Submitted')]//parent::button[@data-tag='applyNowBtn'] locatorType: xpath
+04/16/2020 01:10:55 PM - ApplyPage - INFO: Screenshot save to directory: /home/takwa/PycharmProjects/Demo_Project/base/../screenshots/verifyAppSubmitted.1587039055044.png
